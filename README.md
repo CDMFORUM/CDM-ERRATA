@@ -10,6 +10,6 @@ Despite our best efforts, which include formal review cycles and incorporation o
 Errata only applies to the **existing** CDM specification. Any potential CDM expansion, such as evaluation of new domains or data elements, is not covered under the scope of the errata. 
 
 ### The current errata applies to: 
-[2015-07-29 PCORnet Common Data Model v3.0] (http://www.pcornet.org/wp-content/uploads/2014/07/2015-07-29-PCORnet-Common-Data-Model-v3dot0-RELEASE.pdf)
+[PCORnet Common Data Model v3.1] (http://www.pcornet.org/pcornet-common-data-model/)
 
 Please note that the CDM specification itself is hosted at [http://www.pcornet.org/pcornet-common-data-model/] (http://www.pcornet.org/pcornet-common-data-model/)
