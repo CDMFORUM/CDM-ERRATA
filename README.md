@@ -7,9 +7,6 @@ The errata lists the minor errors and typos that have been identified in the PCO
 Despite our best efforts, which include formal review cycles and incorporation of feedback, some errors are not identified during this process. Our goal is to identify and promote awareness of these corrections.
 
 ### What is the scope of the errata?
-Errata only applies to the **existing** CDM specification. Any potential CDM expansion, such as evaluation of new domains or data elements, is not covered under the scope of the errata. 
+Errata only applies to the current releases of the CDM specification. Any potential CDM expansion, such as evaluation of new domains or data elements, is not covered under the scope of the errata. 
 
-### The current errata applies to: 
-[PCORnet Common Data Model v3.1] (http://www.pcornet.org/pcornet-common-data-model/)
-
-Please note that the CDM specification itself is hosted at [http://www.pcornet.org/pcornet-common-data-model/] (http://www.pcornet.org/pcornet-common-data-model/)
+Please note that the Common Data Model specifications are hosted at [http://www.pcornet.org/pcornet-common-data-model/] (http://www.pcornet.org/pcornet-common-data-model/)
