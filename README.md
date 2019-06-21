@@ -9,4 +9,4 @@ Despite our best efforts, which include formal review cycles and incorporation o
 ### What is the scope of the errata?
 Errata only applies to the current releases of the CDM specification. Any potential CDM expansion, such as evaluation of new domains or data elements, is not covered under the scope of the errata. 
 
-Please note that the Common Data Model specifications are hosted at [https://pcornet.org/](https://pcornet.org/)
+Please note that the Common Data Model specifications are hosted at [https://pcornet.org/data-driven-common-model/](https://pcornet.org/data-driven-common-model/)
